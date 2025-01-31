@@ -1,0 +1,15 @@
+{
+    "Basic Laser": {
+      "accuracy_bonus": 10,
+      "shots": 1,
+      "pierce_shields": false,
+      "damage": 1
+    },
+    "Missile Launcher": {
+      "accuracy_bonus": -5,
+      "shots": 1,
+      "pierce_shields": true,
+      "damage": 2
+    }
+  }
+  

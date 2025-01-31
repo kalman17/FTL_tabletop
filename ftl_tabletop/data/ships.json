@@ -1,0 +1,19 @@
+{
+    "Pirate Scout": {
+      "name": "Pirate Scout",
+      "evasion": 25,
+      "hull": 8,
+      "rooms": 6,
+      "shield": 1,
+      "weapons": ["Basic Laser"]
+    },
+    "Pirate Fighter": {
+      "name": "Pirate Fighter",
+      "evasion": 30,
+      "hull": 10,
+      "rooms": 8,
+      "shield": 2,
+      "weapons": ["Basic Laser", "Missile Launcher"]
+    }
+  }
+  
