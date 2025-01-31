@@ -37,6 +37,16 @@ FTL_tabletop/            # Top-level project folder
 
 # Development Notes
 
+## TODO next
+- sometimes there are near misses that still result in hitting the targetted room. ensure it must hit a nearby room
+- test if the logic still works well as t_perfect caps at 95, until t_near is 90, after which both go up with a distance of 5
+- implement shield points, and shield regen on a turn by turn basis
+- count turns
+- try creating weapons, ships, and a menu that lets you choose which ship to fight
+- choose which weapon to use each turn
+- multiplayer (turn by turn against other player on the same machine, coop basically)
+- associate systems to rooms, and give levels to systems. keep track of their current status and what effects they have on the ship's battle.
+
 ## Weapons
 - Weapons can have effects (starting a fire, causing a breach, etc.).
 - The chance of these effects occurring depends on the weapon's stats and activates directly if the attack roll is high enough.
